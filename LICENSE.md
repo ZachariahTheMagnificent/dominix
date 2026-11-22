@@ -150,7 +150,7 @@ brings to the Work are owned by him/her or licensed to him/her and that
 he/she has the power and authority to grant the Licence.
 
 Each time You accept the Licence, the original Licensor and subsequent
-Contributors grant You a licence to their contri­ butions to the Work,
+Contributors grant You a licence to their contributions to the Work,
 under the terms of this Licence.
 
 ## 7. Disclaimer of Warranty
